@@ -1,0 +1,54 @@
+{
+  "serviceData": {
+    "detailedModal": [
+      "Monthly billing",
+      "No hidden costs",
+      "No setup fee charges",
+      "Flexible budget"
+    ],
+    "fixedModal": [
+      "Milestone wise payment",
+      "No hidden costs",
+      "Pre-defined requirements",
+      "Fixed Time Frame"
+    ]
+  },
+  "cardsData": [
+    {
+      "id": 1,
+      "heading": "App Development",
+      "subHeading": "Expertise in the characteristics and best practices unique to each native platform ensures that our custom apps exceed user expectations every time.",
+      "image": "https://www.appflixstudio.com/dist/images/feature-icon-01.svg"
+    },
+    {
+      "id": 2,
+      "heading": "Web Development",
+      "subHeading": "The Web remains the most open and flexible runtime available today. We ensure that web applications exceed users expectations in the mobile age, including accessibility and responsive design.",
+      "image": "https://www.appflixstudio.com/dist/images/feature-icon-02.svg"
+    },
+    {
+      "id": 3,
+      "heading": "AWS Cloud Consultant",
+      "subHeading": "Our architects, engineers and custom web application development company experts can assist your organization in building, deploying, managing and optimizing your Amazon Web Services cloud environment.",
+      "image": "https://www.appflixstudio.com/dist/images/feature-icon-03.svg"
+    },
+    {
+      "id": 4,
+      "heading": "Product Design",
+      "subHeading": "User-centered design, where visual UI is informed by UX and content strategy, creates seamless and intuitive digital experiences.",
+      "image": "https://www.appflixstudio.com/dist/images/feature-icon-04.svg"
+    },
+    {
+      "id": 5,
+      "heading": "Quality Assurance",
+      "subHeading": "Appflix provides a full range of QA and software testing services to ensure your web and mobile solutions meet the highest of standards.",
+      "image": "https://www.appflixstudio.com/dist/images/feature-icon-05.svg"
+    },
+    {
+      "id": 6,
+      "heading": "Hire Developers",
+      "subHeading": "We offer different options for you to outsource your project, we can send our dedicated developers on-site, to achieve maximum throughput, and set up a special team collaboration.",
+      "image": "https://www.appflixstudio.com/dist/images/feature-icon-06.svg"
+    }
+  ]
+}
