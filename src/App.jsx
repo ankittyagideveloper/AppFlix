@@ -8,9 +8,13 @@ import { cardsData, serviceData } from "./ssr.json";
 function App() {
   return (
     <div className="container ">
-      <div className="navbar flex justify-between py-6 pl-4 items-center pr-10 fixed w-full ">
+      <div className="navbar flex  justify-between py-6 pl-4 items-center pr-10 fixed w-full ">
         <a href="/">
-          <img className="logo" src={logo} alt="logo" />
+          <img
+            className="logo md:ml-24 md:w-80  absolute h-auto w-28 top-9"
+            src={logo}
+            alt="logo"
+          />
         </a>
         <ul className="flex text-white ml-36">
           <li>
@@ -24,15 +28,18 @@ function App() {
           </li>
         </ul>
       </div>
-      <div id="contact" className="pt-40 px-4 text-center">
-        <h1 className="text-[38px] mb-4 text-white font-semibold leading-[49px]">
+      <div
+        id="contact"
+        className="pt-40 px-4 text-center md:w-2/5 md:ml-28 md:text-left"
+      >
+        <h1 className="text-[38px] mb-4 text-white  font-semibold leading-[49px]">
           Crafting Digital Experiences
         </h1>
         <p className="subHeading">
           We are a team of passionate people driven by one relentless pursuit-
           to craft innovative solutions and deliver unparalleled results.
         </p>
-        <div className="max-w-[280px] ml-auto mr-auto rounded-sm">
+        <div className="max-w-[280px] md:ml-[100px] ml-auto mr-auto rounded-sm">
           <a
             href="mailto:test@test.com"
             className="callToAction flex justify-center px-8 py-[15px]"
